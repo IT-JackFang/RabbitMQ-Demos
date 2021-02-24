@@ -1,0 +1,3 @@
+# Project exclude paths
+/my-rabbitmq-subscribe/target/
+/my-rabbitmq-work/target/
