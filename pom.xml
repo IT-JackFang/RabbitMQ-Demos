@@ -12,6 +12,7 @@
         <module>my-rabbitmq-work</module>
         <module>my-rabbitmq-simple</module>
         <module>my-rabbitmq-subscribe</module>
+        <module>my-rabbitmq-routing</module>
     </modules>
 
     <properties>
